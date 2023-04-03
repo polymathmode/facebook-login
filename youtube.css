@@ -1,0 +1,14 @@
+.main-section{
+    display: flex;
+}
+.sidebar{
+    padding: 50px 0px;
+
+}
+.sidebar div{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    margin-bottom: 20px;
+
+}

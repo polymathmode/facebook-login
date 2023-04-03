@@ -1,0 +1,15 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 10px;
+    justify-content: end;
+}
+li,a{
+    text-decoration: none;
+}
+li,img{
+    border-radius: 10px;
+}
+#hero,img{
+    width: 300px;
+}
